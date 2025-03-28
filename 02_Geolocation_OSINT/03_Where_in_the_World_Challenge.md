@@ -9,4 +9,4 @@ These images are provided for you to test your geographical OSINT skills by iden
 ### Image 3:
 ![Image 3](https://github.com/user-attachments/assets/83766509-d830-4677-aed7-af01de406fe9)
 
-**Answers are provided in the video (Link in README.md).**
+**Answers are provided in the video (Link in README.md)**
