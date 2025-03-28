@@ -5,7 +5,8 @@ Geolocation OSINT (Open-Source Intelligence) is the process of identifying and a
 ## 🔍 Sources for Physical Location OSINT  
 
 ### Google Maps  
-- **[Google Maps](https://www.google.com/maps/@31.5581516,74.3939335,15z)**  
+- **[Google Maps](https://www.google.com/maps/@31.5581516,74.3939335,15z)**
+  
   - Allows users to explore areas using satellite imagery, street view, and 3D terrain mapping.  
   - Can be used to confirm the authenticity of images based on landmarks and surroundings.  
   - Useful for tracking movements by analyzing timestamps and historical street view imagery.  
