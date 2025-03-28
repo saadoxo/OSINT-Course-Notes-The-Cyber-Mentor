@@ -35,15 +35,19 @@
 
 ### IP Location Lookup
 
+![image](https://github.com/user-attachments/assets/a82ac30f-6509-4b35-9efb-b04e423f6f32)
+
 
 
 ### Sock Puppet Details
 
-*(General information on sock puppet identity creation.)*
+![image](https://github.com/user-attachments/assets/32dbc433-c324-474c-85aa-879c3f172f74)
+
 
 ### More Details
 
-*(Additional details and considerations.)*
+![image](https://github.com/user-attachments/assets/da0a403e-746b-4c03-82f3-8583cb8cbd25)
+
 
 ## G-Mail Details
 
@@ -54,3 +58,6 @@
 
 - **Email**: ei********rg0@gmail.com  
 - **Password**: ******
+
+
+**Reminder:** Ensure proper OPSEC when creating and using sock puppets. Use VPNs, fresh virtual machines, and separate browser sessions to avoid leaks.
