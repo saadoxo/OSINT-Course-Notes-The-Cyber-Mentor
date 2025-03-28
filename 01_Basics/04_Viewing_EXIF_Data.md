@@ -28,7 +28,7 @@ One of the most effective tools for viewing EXIF data is:
 5. **Software Edits**  
    - If an image has been edited using software like Photoshop, this might be reflected in the metadata.
 
- - **Example:**
+ ## **Example:**
    
    ![image](https://github.com/user-attachments/assets/47a01570-aaee-440f-8800-8d9b0b65289c)
 
