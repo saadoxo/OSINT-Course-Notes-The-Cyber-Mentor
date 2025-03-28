@@ -23,3 +23,5 @@ social media investigations, and more.
 If you found this useful, consider giving it a star on GitHub!
 
 <u>Note: These are my notes, but I've refined them with AI to ensure they strictly follow the guidelines.</u>
+
+[Watch the Course on YouTube](https://youtu.be/qwA6MmbeGNo)
