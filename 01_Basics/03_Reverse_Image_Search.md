@@ -18,7 +18,7 @@ Below are some of the best tools for performing reverse image searches:
    - Specializes in finding exact matches of an image, even if they have been cropped or resized.  
    - Provides useful metadata about where and how an image appears on the web.  
 
-## 🛠 How to Use Reverse Image Search
+## How to Use Reverse Image Search
 
 1. **Upload the Image or Paste a URL**  
    - Visit one of the reverse image search engines listed above.  
