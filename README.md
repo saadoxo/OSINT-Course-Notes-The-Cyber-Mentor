@@ -22,4 +22,4 @@ social media investigations, and more.
 **Improve your OSINT skills with structured learning!**  
 If you found this useful, consider giving it a star on GitHub!
 
-Note: These are my notes, but I've refined them with AI to ensure they strictly follow the guidelines.
+<u>Note: These are my notes, but I've refined them with AI to ensure they strictly follow the guidelines.</u>
