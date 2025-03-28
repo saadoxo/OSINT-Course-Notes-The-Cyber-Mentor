@@ -6,7 +6,8 @@ EXIF (Exchangeable Image File Format) data is metadata stored within image files
 
 One of the most effective tools for viewing EXIF data is:
 
-- **[EXIF REGEX](http://exif.regex.info/exif.cgi)**  
+- **[EXIF REGEX](http://exif.regex.info/exif.cgi)**
+  
   - Upload an image or provide a direct URL to extract EXIF metadata.  
   - Displays details such as camera type, exposure settings, date/time, location, and more.  
 
